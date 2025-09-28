@@ -395,6 +395,8 @@ body {
 
   .module__head {
     font-size: 20px;
+    line-height: 24px;
+    margin-bottom: 20px;
   }
 
   .module__content {
@@ -514,7 +516,7 @@ body {
     margin-top: 78px;
     color: black;
     font-weight: 200;
-    font-size: 14px;
+    font-size: 10px;
     line-height: 120%;
   }
 
