@@ -414,7 +414,7 @@ body {
   .module__content__des {
     font-weight: 400;
     font-size: 12px;
-    line-height: 24px;
+    line-height: 15px;
     color: black;
   }
 
@@ -481,7 +481,7 @@ body {
     margin-top: 5px;
     font-weight: 400;
     font-size: 12px;
-    line-height: 100%;
+    line-height: 15px;
     color: black;
   }
 
