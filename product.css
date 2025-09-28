@@ -198,8 +198,8 @@ body {
 .head-container__title {
   color: white;
   font-size: 70px;
-  font-weight: 400;
-  line-height: 100%;
+  font-weight: 600;
+  line-height: 85px;
   margin-left: 190px;
   margin-top: 664px;
   text-align: left;
@@ -207,7 +207,7 @@ body {
 
 .head-container__subtitle {
   font-size: 24px;
-  font-weight: light;
+  font-weight: 300;
   line-height: 100%;
   margin-left: 190px;
   margin-top: 28px;
