@@ -261,6 +261,7 @@ body {
 }
 
 .module__content__img-show {
+  height: 812px;
   border-radius: 20px;
   object-fit: contain;
 }
@@ -271,6 +272,8 @@ body {
 }
 
 .module__content__img-show-control__item {
+  flex-grow: 1;
+  flex-shrink: 0;
   width: 340px;
   height: 190px;
   object-fit: cover;
@@ -431,6 +434,7 @@ body {
   }
 
   .module__content__img-show {
+    height: 185px;
     border-radius: 10px;
     height: 184px;
   }
