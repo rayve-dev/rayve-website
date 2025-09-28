@@ -339,6 +339,7 @@ body {
 }
 
 .footer__right__contact-us {
+  white-space: nowrap;
   flex: 1;
   font-weight: 700;
   font-size: 28px;
@@ -347,6 +348,7 @@ body {
 }
 
 .footer__right__phone {
+  white-space: nowrap;
   flex: 1;
   margin-top: 11px;
   font-weight: 200;
