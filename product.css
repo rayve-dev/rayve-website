@@ -338,7 +338,7 @@ body {
 .footer__right__contact-us {
   flex: 1;
   font-weight: 700;
-  font-size: 32px;
+  font-size: 28px;
   line-height: 100%;
   color: black;
 }
@@ -347,7 +347,7 @@ body {
   flex: 1;
   margin-top: 11px;
   font-weight: 200;
-  font-size: 30px;
+  font-size: 24px;
   line-height: 120%;
   color: black;
 }
