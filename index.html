@@ -75,7 +75,7 @@
 
       <div class="module__content">
         <img id="img-show" class="module__content__img-show w-100"
-          src="https://cdn.jsdelivr.net/gh/rayve-dev/rayve-website/imgs/product/product_1.png" alt="">
+          src="https://cdn.jsdelivr.net/gh/rayve-dev/rayve-website/imgs/product/product_4.png" alt="">
 
         <div class="module__content__img-show-control d-flex">
           <img data-imgurl="https://cdn.jsdelivr.net/gh/rayve-dev/rayve-website/imgs/product/product_1.png"
@@ -117,7 +117,11 @@
       buttons.forEach(button => {
         button.addEventListener('click', function () {
           const imgUrl = this.getAttribute('src');
+          const imgShowSrc = imgShow.src;
+          console.log('imgShowSrc', imgShowSrc);
           imgShow.src = imgUrl;
+
+          this.setAttribute('src', imgShowSrc);
         });
       });
     </script>
