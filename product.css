@@ -296,7 +296,7 @@ body {
   margin-top: 10px;
   font-weight: 400;
   font-size: 16px;
-  line-height: 31px;
+  line-height: 24px;
   color: black;
 }
 
@@ -407,7 +407,7 @@ body {
   .module__content__des {
     font-weight: 400;
     font-size: 12px;
-    line-height: 100%;
+    line-height: 24px;
     color: black;
   }
 
@@ -510,7 +510,7 @@ body {
     margin-top: 78px;
     color: black;
     font-weight: 200;
-    font-size: 10px;
+    font-size: 14px;
     line-height: 120%;
   }
 
